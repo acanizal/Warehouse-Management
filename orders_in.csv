@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,status,total_amount
+1040,1,7/25/2026,Pending,100
+1041,2,7/25/2026,Pending,99.99
+1042,3,7/25/2026,Pending,54.99

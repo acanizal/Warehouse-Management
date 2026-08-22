@@ -1,0 +1,4 @@
+﻿from_warehouse,to_warehouse,distance,r_status
+houston,austin,165,open
+austin ,san antonio,80,open
+dallas,austin,195,open
